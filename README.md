@@ -19,7 +19,7 @@ Currently obsessed with AI, clean architecture, and shipping things that actuall
 ## 🧠 Tech Stack
 
 **Frontend & Backend**  
-`Angular` `TypeScript` `Node.js` `Express` `Python`
+`React` `TypeScript` `Node.js` `Express` `Python`
 
 **AI / ML**  
 `TensorFlow` `scikit-learn` `Pandas` `Seaborn`
