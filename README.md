@@ -1,8 +1,6 @@
 <div align="center">
 
-```txt
-// software engineer · ai & ml · pakistan
-```
+### Software Engineer · AI & ML · Pakistan
 
 # Muhammad Umair Akram
 
