@@ -1,26 +1,52 @@
+<div align="center">
+
+```
+// software engineer · ai & ml · pakistan
+```
+
 # Muhammad Umair
-**Software Engineer · AI/ML · Pakistan**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-umairakram24-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/umairakram24)
-[![Email](https://img.shields.io/badge/Email-umair.akramcs@gmail.com-EA4335?style=flat&logo=gmail)](mailto:umair.akramcs@gmail.com)
+I build intelligent systems — from scalable SaaS backends to ML-powered products.  
+Currently obsessed with AI, clean architecture, and shipping things that actually work.
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/umairakram24)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/racist20)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail)](mailto:umair.akramcs@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/umair.akram1)
 
-## About
-
-Passionate about building intelligent systems at the intersection of software engineering and AI. Currently working on AI-powered SaaS and exploring machine learning applications in real-world products.
-
-## Stack
-
-`Angular` `TypeScript` `Python` `Node.js` `TensorFlow` `scikit-learn` `MongoDB` `PostgreSQL` `Git` `Linux`
-
-## Currently
-
-- Building AI-powered SaaS at HorizonAI
-- Deepening expertise in machine learning and model training
-- Open to collaborating on AI/ML projects
+</div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umair-rai&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=umair-rai&layout=compact&hide_border=true)
+## 🧠 Tech Stack
+
+**Frontend & Backend**  
+`Angular` `TypeScript` `Node.js` `Express` `Python`
+
+**AI / ML**  
+`TensorFlow` `scikit-learn` `Pandas` `Seaborn`
+
+**Databases & Tools**  
+`MongoDB` `PostgreSQL` `Git` `Linux` `Figma` `Postman`
+
+---
+
+## 🚀 Right Now
+
+- 🔨 Building AI-powered SaaS at **HorizonAI**
+- 📚 Grinding ML — model training & optimization
+- 🐾 Working on an AI pet breed recognition platform
+- 🤝 Open to collabs on AI/ML projects
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=umair-rai&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=umair-rai&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umair-rai&theme=tokyonight&hide_border=true" />
+</div>
