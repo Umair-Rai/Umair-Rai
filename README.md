@@ -42,8 +42,6 @@ Currently obsessed with AI, clean architecture, and shipping things that actuall
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umair-rai&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=umair-rai&layout=compact&theme=tokyonight&hide_border=true" />
